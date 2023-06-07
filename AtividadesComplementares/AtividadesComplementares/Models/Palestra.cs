@@ -8,7 +8,7 @@ namespace AtividadesComplementares.Models
 {
     public class Palestra : AtividadeComplementar
     {
-        private string Palestrante { get; set; }
+        public string Palestrante { get; set; }
         public Palestra(string nome, DateTime data, int cargaHoraria, string palestrante) : base(nome, data, cargaHoraria)
         {
             Palestrante = palestrante;

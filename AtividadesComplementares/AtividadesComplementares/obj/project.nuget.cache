@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a1q6MWsWqyD6bCDWknSm0TsbiLj143qB/Pu6V0WSjDoQdl7na2VZ6z2B+NDZi6Y+qc302853RzDYcgd6rnVUGw==",
+  "dgSpecHash": "S+XmzYHwI2dqBktwLHpozrri5jxVvJF38ra1nzlnJvKoJJuAcAL0X9FWrZD3FgfBN7PvYz9kvjbESiVYjVBjaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lvkso\\OneDrive\\Documentos\\faculdade\\5_periodo\\poo I\\atividadeemdupla\\AtividadesComplementares\\AtividadesComplementares\\AtividadesComplementares.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\lvkso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512",
-    "C:\\Users\\lvkso\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\lucas.freitas\\Desktop\\atividades_complementares_poo\\atividades_complementares\\AtividadesComplementares\\AtividadesComplementares\\AtividadesComplementares.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

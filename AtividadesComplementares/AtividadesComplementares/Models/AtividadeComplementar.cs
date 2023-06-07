@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AtividadesComplementares.Models
 {
-    public abstract class AtividadeComplementar
+    public class AtividadeComplementar
     {
         public AtividadeComplementar(string nome, DateTime data, int cargaHoraria) { 
             Nome = nome;
